@@ -1,7 +1,8 @@
 {
-  "name": "rb-package",
+  "name": "@aajuarezd/rb-package",
   "version": "0.1.0",
   "description": "Rebuild your package.json from the package-lock.json",
+  "private": false,
   "keywords": [
     "package",
     "package-lock",
@@ -12,13 +13,16 @@
     "from",
     "json"
   ],
-  "author": "Abner Juarez <abnerariel-1997@hotmail.com>",
-  "license": "MIT",
-  "private": false,
   "bin": {
     "rb-package": "bin/rebuild-package.js"
   },
   "dependencies": {},
+  "author": "Abner Juarez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abnerey/rb-package/issues"
+  },
+  "homepage": "https://github.com/abnerey/rb-package#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/abnerey/rb-package"

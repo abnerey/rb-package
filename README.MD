@@ -14,7 +14,7 @@ flat-package.json. Just run the next commands and use rb-package in your npm pro
 and this tool will create the file just in that directory.
 
 ```shell
-npm install -g rb-package
+npm install -g @aajuarezd/rb-package
 
 cd ../route/to/your/project
 
