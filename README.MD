@@ -1,6 +1,6 @@
 # rb-package
 
-##Rebuild your package.json from your package-lock.json
+## Rebuild your package.json from your package-lock.json
 
 Sometimes install dependencies in your from works only thanks to package-lock.json,
 but if you don't keep congruency between package-lock.json and package.json you may
@@ -13,12 +13,10 @@ with the dependencies version in your package-lock.json, generating a new file n
 flat-package.json. Just run the next commands and use rb-package in your npm project 
 and this tool will create the file just in that directory.
 
-## 
-
 ```shell
 npm install -g rb-package
 
-cd .../route/to/your/project
+cd ../route/to/your/project
 
 rb-package
 ```
