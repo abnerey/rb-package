@@ -1,0 +1,26 @@
+{
+  "name": "rb-package",
+  "version": "0.1.0",
+  "description": "Rebuild your package.json from the package-lock.json",
+  "keywords": [
+    "package",
+    "package-lock",
+    "lock",
+    "build",
+    "rebuild",
+    "generate",
+    "from",
+    "json"
+  ],
+  "author": "Abner Juarez <abnerariel-1997@hotmail.com>",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "rb-package": "bin/rebuild-package.js"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abnerey/rb-package"
+  }
+}
