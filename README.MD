@@ -1,6 +1,6 @@
 # rb-package
 
-###Rebuild your package.json from your package-lock.json
+##Rebuild your package.json from your package-lock.json
 
 Sometimes install dependencies in your from works only thanks to package-lock.json,
 but if you don't keep congruency between package-lock.json and package.json you may
