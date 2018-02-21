@@ -1,6 +1,6 @@
 {
   "name": "@aajuarezd/rb-package",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rebuild your package.json from the package-lock.json",
   "private": false,
   "keywords": [
